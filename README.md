@@ -40,8 +40,8 @@ Before running this application, ensure you have the following installed:
 - pip install ttkthemes
 
 ## Installation
-1.Clone or download the project files /
-2.Ensure all image files are in the project directory:
+1.Clone or download the project files 
+- 2.Ensure all image files are in the project directory:
 - bg.jpg - Login background
 - logo.png - Application logo
 - user.png - Username icon
