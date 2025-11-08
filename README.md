@@ -40,13 +40,13 @@ Before running this application, ensure you have the following installed:
 - pip install ttkthemes
 
 ## Installation
-1.Clone or download the project files \ 
+1.Clone or download the project files  \ 
 2.Ensure all image files are in the project directory:
 - bg.jpg - Login background
 - logo.png - Application logo
 - user.png - Username icon
 - password.png - Password icon
-- clg.png - College logo
+- clg.png - College logo \ 
 3.The project consists of two main files:
 - login.py - Authentication system
 - srm.py - Student record management system
@@ -56,7 +56,7 @@ Before running this application, ensure you have the following installed:
 2.Enter your MySQL connection details:
 - Host name (usually localhost)
 - User name (your MySQL username)
-- Password (your MySQL password)
+- Password (your MySQL password) \ 
 3.The system will automatically create the required database and tables
 
 ## Managing Students
